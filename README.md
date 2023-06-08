@@ -1,2 +1,2 @@
-# Hash-Map
-Sample implementation of a hash map in python 
+# Hash-Table
+Sample implementation of a hash table in python 
